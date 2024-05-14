@@ -9,9 +9,9 @@
 
 
 ### 🌐 Socials
-<a href="https://github.com/Sonu2126"><img alt="Website" src="https://img.shields.io/badge/iaryank.github.io/iAryan-blue?style=flat&logo=github"></a>
+<a href="https://github.com/Sonu2126"><img alt="Website" src="https://img.shields.io/badge/sonu2126.github.io/sonu-blue?style=flat&logo=github"></a>
 
-<a href="https://www.linkedin.com/in/sonu-kumar999/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aryan%20K-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sonu-kumar999/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sonu%20Kumar-blue?style=flat&logo=linkedin"></a>
 
 <a href="mailto:kumarsonu952002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kumarsonu952002@gmail.com-blue?style=flat&logo=gmail"></a>
 
@@ -26,9 +26,6 @@
 
 ### ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Dev Memes
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;" align='center'/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sonu2126&icon=8&color=0)](https://visitcount.itsvg.in)
